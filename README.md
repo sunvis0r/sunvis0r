@@ -38,6 +38,14 @@
   <a href="https://www.w3.org/TR/CSS/"><img alt="CSS" title="CSS" height="80px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" /></a>
 </p>
 
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/JSON"><img alt="JSON" title="JSON" width="40px" src="./img/json.png" /></a>
+  <a href="https://json-schema.org"><img alt="JSON Schema" title="JSON Schema" width="40px" src="./img/jsonschema.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" title="SQL" width="40px" src="./img/sql.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQLite"><img alt="SQLite" title="SQLite" width="40px" src="./img/sqlite.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/Regular_expression"><img alt="Regular expressions" title="Regular expressions" width="40px" src="./img/regex.png" /></a>
+</p>
+
 ----
 
 📧 [Contact me](https://gist.github.com/sunvis0r/fb2d9347516afadda9ef242e9b6d1516)
