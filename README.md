@@ -23,7 +23,7 @@
   <a href="https://eclipseide.org/"><img alt="Eclipse IDE" title="Eclipse IDE" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/eclipse/eclipse-original.svg" /></a>
   <a href="https://git-scm.com/"><img alt="Git" title="Git" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/Cmd.exe"><img alt="Command Prompt" title="Command Prompt" height="80px" src="./img/cmd.png" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" width="80px" src="./img/bash.png" /></a>
   <a href="https://github.com/neovim/neovim"><img alt="NeoVim" title="NeoVim" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/neovim/neovim-original.svg" /></a>
 </p>
 
@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-  <a href="https://html.spec.whatwg.org/dev/introduction.html"><img alt="HTML" title="HTML" height="80px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" /></a>
-  <a href="https://www.w3.org/TR/CSS/"><img alt="CSS" title="CSS" height="80px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" /></a>
+  <a href="https://html.spec.whatwg.org/dev/introduction.html"><img alt="HTML" title="HTML" height="80px" src="./img/html.png" /></a>
+  <a href="https://www.w3.org/TR/CSS/"><img alt="CSS" title="CSS" height="80px" src="./img/css.png" /></a>
 </p>
 
 <p align="center">
