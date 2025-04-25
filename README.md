@@ -49,6 +49,7 @@
   <a href="https://en.wikipedia.org/wiki/Regular_expression"><img alt="Regular expressions" title="Regular expressions" width="50px" src="./img/regex.png" /></a>
 </p>
 
-----
+<!-- horizontal line, thinner than `----` or `<hr />` -->
+##
 
 📧 [Contact me](https://gist.github.com/sunvis0r/fb2d9347516afadda9ef242e9b6d1516)
