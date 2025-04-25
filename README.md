@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.java.com/"><img alt="Java" title="Java" height="80px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" /></a>
   <a href="https://spring.io"><img alt="Spring Boot" title="Spring Boot" height="80px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" /></a>
-  <a href="https://github.com/junit-team/junit5"><img alt="JUnit" title="JUnit" height="80px" src="https://camo.githubusercontent.com/47ab606787e47aee8033b92c8f1d05c0e74b9b81904550f35a8f54e39f6c993b/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" /></a>
+  <a href="https://github.com/junit-team/junit5"><img alt="JUnit" title="JUnit" height="80px" src="./img/junit.png" /></a>
   <a href="https://github.com/mockito/mockito"><img alt="Mockito" title="Mockito" height="80px" src="https://avatars.githubusercontent.com/u/2054056?s=200&v=4" /></a>
   <a href="https://maven.apache.org/"><img alt="Apache Maven" title="Apache Maven" height="80px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/maven/maven-original.svg" /></a>
 </p>
