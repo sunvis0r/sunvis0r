@@ -30,7 +30,9 @@
 <p align="center">
   <a href="https://www.mediawiki.org/wiki/MediaWiki"><img alt="MediaWiki" title="MediaWiki" width="80px" src="./img/mediawiki.svg" /></a>
   <a href="https://www.w3.org/TR/rdf12-concepts/"><img alt="RDF" title="RDF" width="80px" src="./img/rdf.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/SPARQL"><img alt="SPARQL" title="SPARQL" width="80px" src="./img/sparql.png" /></a>
   <a href="https://www.w3.org/2001/sw/wiki/Main_Page"><img alt="Semantic Web" title="Semantic Web" width="80px" src="./img/semanticweb.svg" /></a>
+  <a href="https://jena.apache.org/"><img alt="Apache Jena" title="Apache Jena" width="80px" src="./img/jena.png" /></a>
 </p>
 
 <p align="center">
@@ -39,11 +41,12 @@
 </p>
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/JSON"><img alt="JSON" title="JSON" width="40px" src="./img/json.png" /></a>
-  <a href="https://json-schema.org"><img alt="JSON Schema" title="JSON Schema" width="40px" src="./img/jsonschema.png" /></a>
-  <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" title="SQL" width="40px" src="./img/sql.png" /></a>
-  <a href="https://en.wikipedia.org/wiki/SQLite"><img alt="SQLite" title="SQLite" width="40px" src="./img/sqlite.png" /></a>
-  <a href="https://en.wikipedia.org/wiki/Regular_expression"><img alt="Regular expressions" title="Regular expressions" width="40px" src="./img/regex.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/XML"><img alt="XML" title="XML" width="50px" src="./img/xml.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/JSON"><img alt="JSON" title="JSON" width="50px" src="./img/json.png" /></a>
+  <a href="https://json-schema.org/"><img alt="JSON Schema" title="JSON Schema" width="50px" src="./img/jsonschema.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" title="SQL" width="50px" src="./img/sql.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQLite"><img alt="SQLite" title="SQLite" width="50px" src="./img/sqlite.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/Regular_expression"><img alt="Regular expressions" title="Regular expressions" width="50px" src="./img/regex.png" /></a>
 </p>
 
 ----
